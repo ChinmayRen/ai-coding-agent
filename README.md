@@ -1,4 +1,4 @@
-# AI Coding Agent
+# BASIC AI Coding Agent
 
 This project is a command-line AI coding agent that leverages the Google Gemini API to understand and execute coding-related tasks. The agent can interact with the local filesystem within a designated working directory.
 
@@ -49,6 +49,8 @@ For example:
 ```bash
 python main.py "List all the files in the current directory"
 ```
+
+ai-scripts is a directory where I make it create files.
 
 ### Verbose Mode
 
