@@ -50,6 +50,8 @@ For example:
 python main.py "List all the files in the current directory"
 ```
 
+ai-scripts is a directory where I make it create files.
+
 ### Verbose Mode
 
 To see more details about the agent's operations, including token counts and function call details, use the `--verbose` flag:
@@ -75,3 +77,5 @@ The agent's working directory is defined in `config.py`. By default, it is set t
 # config.py
 WORKING_DIR = "./calculator"
 ```
+
+
