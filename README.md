@@ -1,4 +1,4 @@
-# AI Coding Agent
+# BASIC AI Coding Agent
 
 This project is a command-line AI coding agent that leverages the Google Gemini API to understand and execute coding-related tasks. The agent can interact with the local filesystem within a designated working directory.
 
