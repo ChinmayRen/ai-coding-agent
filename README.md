@@ -75,3 +75,10 @@ The agent's working directory is defined in `config.py`. By default, it is set t
 # config.py
 WORKING_DIR = "./calculator"
 ```
+
+## Future Steps
+
+To make the agent more powerful and conversational, the following features could be implemented:
+
+1.  **Session Memory (Interactive Mode):** The agent could run in a continuous loop (a REPL: Read-Eval-Print Loop) that accepts user input, processes it, and waits for the next command. It should remember the full history of the current conversation.
+2.  **Long-Term Memory (History Saving):** The agent could save the conversation history to a file when a session ends and load this history when it starts up again. This would allow the agent to maintain context across multiple sessions.
